@@ -1,0 +1,44 @@
+/* Bootstrap */
+.card-cover {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.rounded-4 {
+  border-radius: .5rem;
+}
+
+.text-shadow-1 {
+  text-shadow: 0 .125rem .25rem rgba(0, 0, 0, .25);
+}
+
+.bg-shadow {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Custom styles */
+.brand-bg {
+  background-color: #bd5e98;
+}
+
+#navi {
+  padding: .75rem 0;
+  background-color: #bd5e98;
+}
+
+#hero {
+  padding: 3rem 0;
+}
+
+.brand-btn {
+  color: #fff;
+  background-color: #bd5e98;
+  border-color: #bd5e98
+}
+
+.brand-btn:hover, .brand-btn:active {
+  color: #fff;
+  background-color: #ad367f;
+  border-color: #ad367f
+}
