@@ -1,4 +1,12 @@
 /* Bootstrap */
+html {
+  scroll-padding-top: 64px;
+}
+
+body {
+  padding-top: 64px;
+}
+
 .card-cover {
   background-repeat: no-repeat;
   background-position: center;
