@@ -7,14 +7,10 @@ body {
   padding-top: 64px;
 }
 
-.card-cover {
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-}
-
-.text-shadow {
-  text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+@media (max-width: 1200px) {
+  .card-img {
+    max-height: 360px;
+  }
 }
 
 /* Custom styles */
